@@ -1,0 +1,50 @@
+[
+  {
+    "title":"Get Hard",
+    "shortname":"get_hard",
+    "director":"Etan Cohen",
+    "description":"When millionaire James King is jailed for fraud and bound for San Quentin, he turns to Darnell Lewis to prep him to go behind bars."
+  },
+  {
+    "title":"Gladiator",
+    "shortname":"gladiator",
+    "director":"Ridley Scott",
+    "description":"When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge."
+  },
+  {
+    "title":"Inception",
+    "shortname":"inception",
+    "director":"Christopher Nolan",
+    "description":"A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO."
+  },
+  {
+    "title":"Kill Bill: Vol. 1",
+    "shortname":"kill_bill",
+    "director":"Quentin Tarantino",
+    "description":"The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of."
+  },
+  {
+    "title":"Kill Bill: Vol. 2",
+    "shortname":"kill_bill_2",
+    "director":"Quentin Tarantino",
+    "description":"The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd and the treacherous, one-eyed Elle."
+  },
+  {
+    "title":"The Avengers",
+    "shortname":"the_avengers",
+    "director":"Joss Whedon",
+    "description":"Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity."
+  },
+  {
+    "title":"The Prestige",
+    "shortname":"the_prestige",
+    "director":"Christopher Nolan",
+    "description":"Two stage magicians engage in competitive one-upmanship in an attempt to create the ultimate stage illusion."
+  },
+  {
+    "title":"What Women Want",
+    "shortname":"what_women_want",
+    "director":"Nancy Meyers",
+    "description":"After an accident, a chauvenistic executive gains the ability to hear what women are really thinking."
+  }
+]
